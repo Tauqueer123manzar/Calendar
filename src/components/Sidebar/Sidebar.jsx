@@ -4,8 +4,8 @@ import SidebarDetails from './SidebarDetails';
 
 const Sidebar = () => {
   return (
-    <div className="w-64 bg-white shadow-md p-4 flex flex-col">
-      <h1 className="text-2xl font-bold mb-6">KarałeStudio</h1>
+    <div className="w-72 bg-gradient-to-b from-gray-900 to-gray-800 text-white p-6 flex flex-col h-full shadow-xl">
+      <h1 className="text-2xl font-bold mb-8 text-orange-400">Survey Sparrow</h1>
       <SidebarNav />
       <SidebarDetails />
     </div>
