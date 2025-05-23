@@ -19,9 +19,9 @@ const SidebarDetails = () => {
       
       <div className="border-t border-gray-200 pt-4">
         <div className="flex items-center space-x-3">
-          <div className="w-10 h-10 rounded-full bg-blue-600 flex items-center justify-center text-white font-bold">MS</div>
+          <div className="w-10 h-10 rounded-full bg-blue-600 flex items-center justify-center text-white font-bold">MN</div>
           <div>
-            <h3 className="font-semibold">Md Tauguser Manzar</h3>
+            <h3 className="font-semibold">Md Tauqueer Manzar</h3>
             <p className="text-sm text-gray-500">smarrowiny@gmail.com</p>
           </div>
         </div>
